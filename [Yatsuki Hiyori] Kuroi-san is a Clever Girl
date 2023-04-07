@@ -1,0 +1,25 @@
+{
+   "title":"[Yatsuki Hiyori] Kuroi-san is a Clever Girl",
+   "description":"",
+   "author":"Yatsuki Hiyori",
+   "artist":"Yatsuki Hiyori",
+   "cover":"https://i.imgur.com/JvemHnR.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/EsbQXtA"
+         },
+         "last_updated":1624606143,
+         "title":"Kuroi-san is a Clever Girl",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/1GrVb1W"
+         },
+         "last_updated":1624606143,
+         "title":"Kuroi-san is a Super Clever Girl",
+         "volume":"2"
+      }
+   }
+}
